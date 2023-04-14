@@ -10,5 +10,3 @@ Hi, I am Noemi.<br>I work as a DevOps Engineer and I want to keep learning and p
 ![Noemi Alves' GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=noemialves&theme=omni&hide_border=false)<br/>
 ![Noemi Alves' GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noemialves&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=noemialves&icon=5&color=11)](https://visitcount.itsvg.in)
